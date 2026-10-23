@@ -1,7 +1,5 @@
 # Staywise — Hotel Booking
 
-A Laravel hotel-room reservation application featuring real-time room availability search, date overlap validation, guest bookings, reservation history management, and self-service cancellation.
-
 Repository: https://github.com/0xyz-exe/hotel-booking-laravel
 
 ## Screenshots
@@ -10,10 +8,10 @@ Repository: https://github.com/0xyz-exe/hotel-booking-laravel
 ![Room search](docs/screenshots/01_room_search.png)
 
 ### Guest Reservations Dashboard
-![Guest reservations](docs/screenshots/03_guest_bookings.png)
+![Guest reservations](docs/screenshots/02_guest_bookings.png)
 
-### Guest Authentication
-![Guest authentication](docs/screenshots/02_login.png)
+### Guest Authentication & Access
+![Guest authentication](docs/screenshots/03_login.png)
 
 ## Features
 

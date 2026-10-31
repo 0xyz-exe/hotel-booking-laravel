@@ -4,14 +4,12 @@ Repository: https://github.com/0xyz-exe/hotel-booking-laravel
 
 ## Screenshots
 
-### Room Availability & Filter Search
-![Room search](docs/screenshots/01_room_search.png)
-
-### Guest Reservations Dashboard
-![Guest reservations](docs/screenshots/02_guest_bookings.png)
-
-### Guest Authentication & Access
-![Guest authentication](docs/screenshots/03_login.png)
+| Tampilan | Preview |
+|---|---|
+| **Katalog & Pencarian Reservasi Hotel**<br>Antarmuka utama Staywise dengan formulir pencarian destinasi kota, tanggal check-in/out, kapasitas tamu, dan kartu kamar | ![Katalog & Pencarian Reservasi Hotel](docs/screenshots/01-hotel-search-catalog.png) |
+| **Hasil Pencarian Terfilter Berdasarkan Kota**<br>Hasil penelusuran kamar terverifikasi di Portland dengan pengecekan ketersediaan tanggal dan kapasitas tamu | ![Hasil Pencarian Terfilter Berdasarkan Kota](docs/screenshots/02-filtered-destination-results.png) |
+| **Buku Reservasi & Riwayat Tamu**<br>Dasbor reservasi pengguna terautentikasi dengan kode referensi unik HB-XXXX, jadwal menginap, total harga, dan pembatalan mandiri | ![Buku Reservasi & Riwayat Tamu](docs/screenshots/03-guest-reservations.png) |
+| **Formulir Intake Pemesanan Kamar**<br>Formulir pemesanan langsung pada kartu kamar dengan data tamu terisi otomatis, kontrol tanggal menginap, dan tombol konfirmasi | ![Formulir Intake Pemesanan Kamar](docs/screenshots/04-room-booking-intake.png) |
 
 ## Features
 
